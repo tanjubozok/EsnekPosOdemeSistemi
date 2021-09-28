@@ -1,4 +1,4 @@
-# EsnekPosOdemeSistemi
+# EsnekPos Ödeme Sistemi
 EsnekPos Entegrasyon 3D Ödeme Servisi
 
 Entegrasyon Test Ortam Bilgileri:https://developer.esnekpos.com/Home/testortam
