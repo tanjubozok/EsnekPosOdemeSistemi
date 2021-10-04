@@ -135,7 +135,6 @@
     <Content Include="Content\cart\style.css" />
     <Content Include="Content\cart\vue-the-mask.js" />
     <Content Include="Content\cart\vue.min.js" />
-    <Content Include="Content\Site.css" />
     <Content Include="Content\sweetAlert\dist\sweetalert2-bootstrap.min.css" />
     <Content Include="Content\sweetAlert\dist\sweetalert2.min.css" />
     <Content Include="Content\sweetAlert\dist\sweetalert2.min.js" />
@@ -168,6 +167,7 @@
     <Content Include="Views\Payment\CreditCard.cshtml" />
     <Content Include="Scripts\jquery-3.6.0.slim.min.map" />
     <Content Include="Scripts\jquery-3.6.0.min.map" />
+    <Content Include="Views\Payment\ResultBackUrl.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

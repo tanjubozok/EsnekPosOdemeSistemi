@@ -84,8 +84,7 @@ namespace EsnekPosOdemeSistemi.Controllers
             }
         }
 
-        [HttpPost]
-        public ActionResult Sms()
+        public ActionResult ResultBackUrl()
         {
             return View();
         }

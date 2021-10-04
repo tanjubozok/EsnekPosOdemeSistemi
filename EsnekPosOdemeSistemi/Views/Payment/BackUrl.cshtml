@@ -8,3 +8,12 @@
 <h1>
     @TempData["Message"].ToString()
 </h1>
+
+<script src="~/Scripts/jquery-3.6.0.min.js"></script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        setTimeout(function () {
+            window.location.href = "/Payment/ResultBackUrl";
+        }, 1000);
+    });
+</script>
